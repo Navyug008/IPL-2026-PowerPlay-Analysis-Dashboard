@@ -1,0 +1,75 @@
+Match No.,Stage,Venue,City,Date,Day,Time IST,Team 1,Team 1 Score,Team 2,Team 2 Score,Winner,Winner Margin,Result Type
+1,League,M Chinnaswamy Stadium,Bengaluru,28-Mar,Sat,7:30 PM,Royal Challengers Bengaluru,203/4 (15.4 OV),Sunrisers Hyderabad,201/9 (20.0 OV),Royal Challengers Bengaluru,6 Wickets,Won
+2,League,Wankhede Stadium,Mumbai,29-Mar,Sun,7:30 PM,Mumbai Indians,224/4 (19.1 OV),Kolkata Knight Riders,220/4 (20.0 OV),Mumbai Indians,6 Wickets,Won
+3,League,ACA Stadium,Guwahati,30-Mar,Mon,7:30 PM,Rajasthan Royals,128/2 (12.1 OV),Chennai Super Kings,127 (19.4 OV),Rajasthan Royals,8 Wickets,Won
+4,League,New International Cricket Stadium,New Chandigarh,31-Mar,Tue,7:30 PM,Punjab Kings,165/7 (19.1 OV),Gujarat Titans,162/6 (20.0 OV),Punjab Kings,3 Wickets,Won
+5,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,1-Apr,Wed,7:30 PM,Delhi Capitals,145/4 (17.1 OV),Lucknow Super Giants,141 (18.4 OV),Delhi Capitals,6 Wickets,Won
+6,League,Eden Gardens,Kolkata,2-Apr,Thu,7:30 PM,Sunrisers Hyderabad,226/8 (20.0 OV),Kolkata Knight Riders,161 (16.0 OV),Sunrisers Hyderabad,65 Runs,Won
+7,League,MA Chidambaram Stadium,Chennai,3-Apr,Fri,7:30 PM,Punjab Kings,210/5 (18.4 OV),Chennai Super Kings,209/5 (20.0 OV),Punjab Kings,5 Wickets,Won
+8,League,Arun Jaitley Stadium,Delhi,4-Apr,Sat,3:30 PM,Delhi Capitals,164/4 (18.1 OV),Mumbai Indians,162/6 (20.0 OV),Delhi Capitals,6 Wickets,Won
+9,League,Narendra Modi Stadium,Ahmedabad,4-Apr,Sat,7:30 PM,Rajasthan Royals,210/6 (20.0 OV),Gujarat Titans,204/8 (20.0 OV),Rajasthan Royals,6 Runs,Won
+10,League,Rajiv Gandhi International Stadium,Hyderabad,5-Apr,Sun,3:30 PM,Lucknow Super Giants,160/5 (19.5 OV),Sunrisers Hyderabad,156/9 (20.0 OV),Lucknow Super Giants,5 Wickets,Won
+11,League,M Chinnaswamy Stadium,Bengaluru,5-Apr,Sun,7:30 PM,Royal Challengers Bengaluru,250/3 (20.0 OV),Chennai Super Kings,207 (19.4 OV),Royal Challengers Bengaluru,43 Runs,Won
+12,League,Eden Gardens,Kolkata,6-Apr,Mon,7:30 PM,Kolkata Knight Riders,25/2 (3.4 OV),Punjab Kings,,No Result,,No Result
+13,League,ACA Stadium,Guwahati,7-Apr,Tue,7:30 PM,Rajasthan Royals,150/3 (11.0 OV),Mumbai Indians,123/9 (11.0 OV),Rajasthan Royals,27 Runs,Won
+14,League,Arun Jaitley Stadium,Delhi,8-Apr,Wed,7:30 PM,Gujarat Titans,210/4 (20.0 OV),Delhi Capitals,209/8 (20.0 OV),Gujarat Titans,1 Run,Won
+15,League,Eden Gardens,Kolkata,9-Apr,Thu,7:30 PM,Lucknow Super Giants,182/7 (20.0 OV),Kolkata Knight Riders,181/4 (20.0 OV),Lucknow Super Giants,3 Wickets,Won
+16,League,ACA Stadium,Guwahati,10-Apr,Fri,7:30 PM,Rajasthan Royals,202/4 (18.0 OV),Royal Challengers Bengaluru,201/8 (20.0 OV),Rajasthan Royals,6 Wickets,Won
+17,League,New International Cricket Stadium,New Chandigarh,11-Apr,Sat,3:30 PM,Punjab Kings,223/4 (18.5 OV),Sunrisers Hyderabad,219/6 (20.0 OV),Punjab Kings,6 Wickets,Won
+18,League,MA Chidambaram Stadium,Chennai,11-Apr,Sat,7:30 PM,Chennai Super Kings,212/2 (20.0 OV),Delhi Capitals,189 (20.0 OV),Chennai Super Kings,23 Runs,Won
+19,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,12-Apr,Sun,3:30 PM,Gujarat Titans,165/3 (18.4 OV),Lucknow Super Giants,164/8 (20.0 OV),Gujarat Titans,7 Wickets,Won
+20,League,Wankhede Stadium,Mumbai,12-Apr,Sun,7:30 PM,Royal Challengers Bengaluru,240/4 (20.0 OV),Mumbai Indians,222/5 (20.0 OV),Royal Challengers Bengaluru,18 Runs,Won
+21,League,Rajiv Gandhi International Stadium,Hyderabad,13-Apr,Mon,7:30 PM,Sunrisers Hyderabad,216/6 (20.0 OV),Rajasthan Royals,159 (19.0 OV),Sunrisers Hyderabad,57 Runs,Won
+22,League,MA Chidambaram Stadium,Chennai,14-Apr,Tue,7:30 PM,Chennai Super Kings,192/5 (20.0 OV),Kolkata Knight Riders,160/7 (20.0 OV),Chennai Super Kings,32 Runs,Won
+23,League,M Chinnaswamy Stadium,Bengaluru,15-Apr,Wed,7:30 PM,Royal Challengers Bengaluru,149/5 (15.1 OV),Lucknow Super Giants,146 (20.0 OV),Royal Challengers Bengaluru,5 Wickets,Won
+24,League,Wankhede Stadium,Mumbai,16-Apr,Thu,7:30 PM,Punjab Kings,198/3 (16.3 OV),Mumbai Indians,195/6 (20.0 OV),Punjab Kings,7 Wickets,Won
+25,League,Narendra Modi Stadium,Ahmedabad,17-Apr,Fri,7:30 PM,Gujarat Titans,181/5 (19.4 OV),Kolkata Knight Riders,180 (20.0 OV),Gujarat Titans,5 Wickets,Won
+26,League,M Chinnaswamy Stadium,Bengaluru,18-Apr,Sat,3:30 PM,Delhi Capitals,179/4 (19.5 OV),Royal Challengers Bengaluru,175/8 (20.0 OV),Delhi Capitals,6 Wickets,Won
+27,League,Rajiv Gandhi International Stadium,Hyderabad,18-Apr,Sat,7:30 PM,Sunrisers Hyderabad,194/9 (20.0 OV),Chennai Super Kings,184/8 (20.0 OV),Sunrisers Hyderabad,10 Runs,Won
+28,League,Eden Gardens,Kolkata,19-Apr,Sun,3:30 PM,Kolkata Knight Riders,161/6 (19.4 OV),Rajasthan Royals,155/9 (20.0 OV),Kolkata Knight Riders,4 Wickets,Won
+29,League,New International Cricket Stadium,New Chandigarh,19-Apr,Sun,7:30 PM,Punjab Kings,254/7 (20.0 OV),Lucknow Super Giants,200/5 (20.0 OV),Punjab Kings,54 Runs,Won
+30,League,Narendra Modi Stadium,Ahmedabad,20-Apr,Mon,7:30 PM,Mumbai Indians,199/5 (20.0 OV),Gujarat Titans,100 (15.5 OV),Mumbai Indians,99 Runs,Won
+31,League,Rajiv Gandhi International Stadium,Hyderabad,21-Apr,Tue,7:30 PM,Sunrisers Hyderabad,242/2 (20.0 OV),Delhi Capitals,195/9 (20.0 OV),Sunrisers Hyderabad,47 Runs,Won
+32,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,22-Apr,Wed,7:30 PM,Rajasthan Royals,159/6 (20.0 OV),Lucknow Super Giants,119 (18.0 OV),Rajasthan Royals,40 Runs,Won
+33,League,Wankhede Stadium,Mumbai,23-Apr,Thu,7:30 PM,Chennai Super Kings,207/6 (20.0 OV),Mumbai Indians,104 (19.0 OV),Chennai Super Kings,103 Runs,Won
+34,League,M Chinnaswamy Stadium,Bengaluru,24-Apr,Fri,7:30 PM,Royal Challengers Bengaluru,206/5 (18.5 OV),Gujarat Titans,205/3 (20.0 OV),Royal Challengers Bengaluru,5 Wickets,Won
+35,League,Arun Jaitley Stadium,Delhi,25-Apr,Sat,3:30 PM,Punjab Kings,265/4 (18.5 OV),Delhi Capitals,264/2 (20.0 OV),Punjab Kings,6 Wickets,Won
+36,League,Sawai Mansingh Stadium,Jaipur,25-Apr,Sat,7:30 PM,Sunrisers Hyderabad,229/5 (18.3 OV),Rajasthan Royals,228/6 (20.0 OV),Sunrisers Hyderabad,5 Wickets,Won
+37,League,MA Chidambaram Stadium,Chennai,26-Apr,Sun,3:30 PM,Gujarat Titans,162/2 (16.4 OV),Chennai Super Kings,158/7 (20.0 OV),Gujarat Titans,8 Wickets,Won
+38,Super Over,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,26-Apr,Sun,7:30 PM,Kolkata Knight Riders,155/7 (20.0 OV),Lucknow Super Giants,155/8 (20.0 OV),Kolkata Knight Riders,Super Over Won,
+39,League,Arun Jaitley Stadium,Delhi,27-Apr,Mon,7:30 PM,Royal Challengers Bengaluru,77/1 (6.3 OV),Delhi Capitals,75 (16.3 OV),Royal Challengers Bengaluru,9 Wickets,Won
+40,League,New International Cricket Stadium,New Chandigarh,28-Apr,Tue,7:30 PM,Rajasthan Royals,228/4 (19.2 OV),Punjab Kings,222/4 (20.0 OV),Rajasthan Royals,6 Wickets,Won
+41,League,Wankhede Stadium,Mumbai,29-Apr,Wed,7:30 PM,Sunrisers Hyderabad,249/4 (18.4 OV),Mumbai Indians,243/5 (20.0 OV),Sunrisers Hyderabad,6 Wickets,Won
+42,League,Narendra Modi Stadium,Ahmedabad,30-Apr,Thu,7:30 PM,Gujarat Titans,158/6 (15.5 OV),Royal Challengers Bengaluru,155 (19.2 OV),Gujarat Titans,4 Wickets,Won
+43,League,Sawai Mansingh Stadium,Jaipur,1-May,Fri,7:30 PM,Delhi Capitals,226/3 (19.1 OV),Rajasthan Royals,225/6 (20.0 OV),Delhi Capitals,7 Wickets,Won
+44,League,MA Chidambaram Stadium,Chennai,2-May,Sat,7:30 PM,Chennai Super Kings,160/2 (18.1 OV),Mumbai Indians,159/7 (20.0 OV),Chennai Super Kings,8 Wickets,Won
+45,League,Rajiv Gandhi International Stadium,Hyderabad,3-May,Sun,3:30 PM,Kolkata Knight Riders,169/3 (18.2 OV),Sunrisers Hyderabad,165 (19.0 OV),Kolkata Knight Riders,7 Wickets,Won
+46,League,Narendra Modi Stadium,Ahmedabad,3-May,Sun,7:30 PM,Gujarat Titans,167/6 (19.5 OV),Punjab Kings,163/9 (20.0 OV),Gujarat Titans,4 Wickets,Won
+47,League,Wankhede Stadium,Mumbai,4-May,Mon,7:30 PM,Mumbai Indians,229/4 (18.4 OV),Lucknow Super Giants,228/5 (20.0 OV),Mumbai Indians,6 Wickets,Won
+48,League,Arun Jaitley Stadium,Delhi,5-May,Tue,7:30 PM,Chennai Super Kings,159/2 (17.3 OV),Delhi Capitals,155/7 (20.0 OV),Chennai Super Kings,8 Wickets,Won
+49,League,Rajiv Gandhi International Stadium,Hyderabad,6-May,Wed,7:30 PM,Sunrisers Hyderabad,235/4 (20.0 OV),Punjab Kings,202/7 (20.0 OV),Sunrisers Hyderabad,33 Runs,Won
+50,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,7-May,Thu,7:30 PM,Lucknow Super Giants,209/3 (19.0 OV),Royal Challengers Bengaluru,203/6 (19.0 OV),Lucknow Super Giants,9 Runs,Won (D/L)
+51,League,Arun Jaitley Stadium,Delhi,8-May,Fri,7:30 PM,Kolkata Knight Riders,147/2 (14.2 OV),Delhi Capitals,142/8 (20.0 OV),Kolkata Knight Riders,8 Wickets,Won
+52,League,Sawai Mansingh Stadium,Jaipur,9-May,Sat,7:30 PM,Gujarat Titans,229/4 (20.0 OV),Rajasthan Royals,152 (16.3 OV),Gujarat Titans,77 Runs,Won
+53,League,MA Chidambaram Stadium,Chennai,10-May,Sun,3:30 PM,Chennai Super Kings,208/5 (19.2 OV),Lucknow Super Giants,203/8 (20.0 OV),Chennai Super Kings,5 Wickets,Won
+54,League,Shaheed Veer Narayan Singh International Cricket Stadium,Raipur,10-May,Sun,7:30 PM,Royal Challengers Bengaluru,167/8 (20.0 OV),Mumbai Indians,166/7 (20.0 OV),Royal Challengers Bengaluru,2 Wickets,Won
+55,League,Himachal Pradesh Cricket Association Stadium,Dharamshala,11-May,Mon,7:30 PM,Delhi Capitals,216/7 (19.0 OV),Punjab Kings,210/5 (20.0 OV),Delhi Capitals,3 Wickets,Won
+56,League,Narendra Modi Stadium,Ahmedabad,12-May,Tue,7:30 PM,Gujarat Titans,168/5 (20.0 OV),Sunrisers Hyderabad,86 (14.5 OV),Gujarat Titans,82 Runs,Won
+57,League,Shaheed Veer Narayan Singh International Cricket Stadium,Raipur,13-May,Wed,7:30 PM,Royal Challengers Bengaluru,194/4 (19.1 OV),Kolkata Knight Riders,192/4 (20.0 OV),Royal Challengers Bengaluru,6 Wickets,Won
+58,League,Himachal Pradesh Cricket Association Stadium,Dharamshala,14-May,Thu,7:30 PM,Mumbai Indians,205/4 (19.5 OV),Punjab Kings,200/8 (20.0 OV),Mumbai Indians,6 Wickets,Won
+59,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,15-May,Fri,7:30 PM,Lucknow Super Giants,188/3 (16.4 OV),Chennai Super Kings,187/5 (20.0 OV),Lucknow Super Giants,7 Wickets,Won
+60,League,Eden Gardens,Kolkata,16-May,Sat,7:30 PM,Kolkata Knight Riders,247/2 (20.0 OV),Gujarat Titans,218/4 (20.0 OV),Kolkata Knight Riders,29 Runs,Won
+61,League,Himachal Pradesh Cricket Association Stadium,Dharamshala,17-May,Sun,3:30 PM,Royal Challengers Bengaluru,222/4 (20.0 OV),Punjab Kings,199/8 (20.0 OV),Royal Challengers Bengaluru,23 Runs,Won
+62,League,Arun Jaitley Stadium,Delhi,17-May,Sun,7:30 PM,Delhi Capitals,197/5 (19.2 OV),Rajasthan Royals,193/8 (20.0 OV),Delhi Capitals,5 Wickets,Won
+63,League,MA Chidambaram Stadium,Chennai,18-May,Mon,7:30 PM,Sunrisers Hyderabad,181/5 (19.0 OV),Chennai Super Kings,180/7 (20.0 OV),Sunrisers Hyderabad,5 Wickets,Won
+64,League,Sawai Mansingh Stadium,Jaipur,19-May,Tue,7:30 PM,Rajasthan Royals,225/3 (19.1 OV),Lucknow Super Giants,220/5 (20.0 OV),Rajasthan Royals,7 Wickets,Won
+65,League,Eden Gardens,Kolkata,20-May,Wed,7:30 PM,Kolkata Knight Riders,148/6 (18.5 OV),Mumbai Indians,147/8 (20.0 OV),Kolkata Knight Riders,4 Wickets,Won
+66,League,Narendra Modi Stadium,Ahmedabad,21-May,Thu,7:30 PM,Gujarat Titans,229/4 (20.0 OV),Chennai Super Kings,140 (13.4 OV),Gujarat Titans,89 Runs,Won
+67,League,Rajiv Gandhi International Stadium,Hyderabad,22-May,Fri,7:30 PM,Sunrisers Hyderabad,255/4 (20.0 OV),Royal Challengers Bengaluru,200/4 (20.0 OV),Sunrisers Hyderabad,55 Runs,Won
+68,League,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,23-May,Sat,7:30 PM,Punjab Kings,200/3 (18.0 OV),Lucknow Super Giants,196/6 (20.0 OV),Punjab Kings,7 Wickets,Won
+69,League,Wankhede Stadium,Mumbai,24-May,Sun,3:30 PM,Rajasthan Royals,205/8 (20.0 OV),Mumbai Indians,175/9 (20.0 OV),Rajasthan Royals,30 Runs,Won
+70,League,Eden Gardens,Kolkata,24-May,Sun,7:30 PM,Delhi Capitals,203/5 (20.0 OV),Kolkata Knight Riders,163 (18.4 OV),Delhi Capitals,40 Runs,Won
+Qualifier 1,Qualifier 1,Himachal Pradesh Cricket Association Stadium,Dharamshala,26-May,Tue,7:30 PM,Royal Challengers Bengaluru,254/5 (20.0 OV),Gujarat Titans,162 (19.3 OV),Royal Challengers Bengaluru,92 Runs,Won (Qualified)
+Eliminator,Eliminator,New International Cricket Stadium,New Chandigarh,27-May,Wed,7:30 PM,Rajasthan Royals,243/8 (20.0 OV),Sunrisers Hyderabad,196 (19.2 OV),Rajasthan Royals,47 Runs,Won (Qualified)
+Qualifier 2,Qualifier 2,New International Cricket Stadium,New Chandigarh,29-May,Fri,7:30 PM,Gujarat Titans,219/3 (18.4 OV),Rajasthan Royals,214/6 (20.0 OV),Gujarat Titans,7 Wickets,Won (Qualified)
+Final,Final,Narendra Modi Stadium,Ahmedabad,31-May,Sun,7:30 PM,Royal Challengers Bengaluru,161/5 (18.0 OV),Gujarat Titans,155/8 (20.0 OV),Royal Challengers Bengaluru,5 Wickets,Won (Winners)
